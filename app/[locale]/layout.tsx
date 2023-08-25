@@ -11,9 +11,9 @@ export const metadata: Metadata = {
     description: "Order your cleaner!",
 };
 
-export function generateStaticParams() {
-    return [{ locale: "en" }, { locale: "he" }];
-}
+// export function generateStaticParams() {
+//     return [{ locale: "en" }, { locale: "he" }];
+// }
 
 export default async function RootLayout({
     children,
