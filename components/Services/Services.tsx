@@ -1,3 +1,4 @@
+"use client";
 import { useTranslations } from "next-intl";
 import ServiceItem from "../ServiceItem/ServiceItem";
 import { icons } from "./icons";

@@ -1,3 +1,4 @@
+"use client";
 import { TranslateType } from "@/types";
 import { useTranslations } from "next-intl";
 import { kiteOne } from "../../assets/fonts/fonts";
